@@ -1,3 +1,4 @@
+# Project Name: E Commerce Analysis
 # Business Impacts
 1. Daily Order Counts & Daily Sales: Track daily fluctuations to identify peak days, slow periods, or seasonality.
 2. Customer Counts: Identify customer base growth trends over time and Spot periods of high or low engagement to tailor campaigns.
@@ -6,7 +7,7 @@
 5. Sales by Product Categories: Identify top-selling vs underperforming products. Adjust stock levels based on demand trends.
 6. Sales by Customer Segments & Orders by Customer Segments: Understand which segments contribute most to revenue. Personalize promotions and loyalty programs for high-value segments. Focus efforts on the most profitable customer segments.
  
-## Approaches
+## Approaches Details
 
 1. utilized the public Kaggle dataset to explore
 + Formal KPI - total sale, total customer, total order
