@@ -14,4 +14,9 @@
 + Monthly KPI - monthly sale, monthly customer, monthly order, monthly active sellers, Average orders to delivery times, Average carriers processing times
 3. Columns that I used for this analysis are OrderID, Customer_id, Customer_city, Customer_state, Seller Id,  Seller_City, Seller_State, Order_status, Order_purchase_timestamp, Order_approved_at, Order_delivered_carrier_date, Order_deli
 4. Cleaned and processed millions of rows in Python
-5. Aggregated and visualized results in Excel, building an interactive dashboard for deep analysis
+5. Aggregated and visualized results in Excel, Power BI building an interactive dashboard for deep analysis
+
+## 📊 Dashboard Visualization (Excel & Power BI)
+<img width="1145" height="625" alt="image" src="https://github.com/user-attachments/assets/a7e4cae6-06ea-4c7c-9b0d-2a0af6dedd47" />
+
+<img width="1308" height="741" alt="image" src="https://github.com/user-attachments/assets/3368875c-7151-4ffb-91eb-fb7f0d915564" />
